@@ -56,7 +56,7 @@ npm run docs:preview
 3. 设定 public 根目录
 > `base`是设置在`.vitepress/config.mts`文件中的。  
 ```yml
-export default defineConfig({
+export default defineConfig({{
   base: '/doc/',
   title: "hhhhhtao",
   description: "个人文档",
@@ -138,6 +138,7 @@ jobs:
         id: deployment
         uses: actions/deploy-pages@v4
 ```
+
 2. 在存储库设置中的“Pages”菜单项下，选择“Build and deployment > Source > GitHub Actions”。
 
-3. 将更改推送到 main 分支并等待 GitHub Action 工作流完成。你应该看到站点部署到 https://<username>.github.io/[repository]/ 或 https://<custom-domain>/，这取决于你的设置。你的站点将在每次推送到 main 分支时自动部署。
+3. 将更改推送到 main 分支并等待 GitHub Action 工作流完成。你应该看到站点部署到 `https://<username>.github.io/[repository]/` 或 `https://<custom-domain>/`，这取决于你的设置。你的站点将在每次推送到 main 分支时自动部署。
