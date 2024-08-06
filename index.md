@@ -6,20 +6,17 @@ hero:
   name: "hhhhhtao"
   text: "个人文档"
   tagline: Hello JuanJuan
+  image:
+    alt: hhhhhtao个人文档
   actions:
     - theme: brand
-      text: Markdown 示例
-      link: /markdown-examples
-    - theme: alt
-      text: API 示例
-      link: /api-examples
+      text: GO
+      link: /guide
 
 features:
-  - title: Feature A
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature B
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature C
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
+  - icon: 
+      src: /logos/git-scm-icon.svg
+    title: Git
+    details: git使用手册
 ---
 
