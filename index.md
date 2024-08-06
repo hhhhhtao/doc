@@ -10,7 +10,7 @@ hero:
     alt: hhhhhtao个人文档
   actions:
     - theme: brand
-      text: GO
+      text: START
       link: /guide
 
 features:
@@ -18,5 +18,6 @@ features:
       src: /logos/git-scm-icon.svg
     title: Git
     details: git使用手册
+    link: /git/
 ---
 
