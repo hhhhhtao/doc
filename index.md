@@ -15,9 +15,19 @@ hero:
 
 features:
   - icon: 
-      src: /logos/git-scm-icon.svg
+      src: logos/git-scm-icon.svg
     title: Git
     details: git使用手册
-    link: /git/
+    link: git/
+  - icon: 
+      src: logos/spring-logo.png
+    title: Spring Boot
+    details: spring-boot个人使用习惯
+    link: spring-boot/
+  - icon: 
+      src: logos/mybatis-plus-logo.png
+    title: MyBatis-Plus
+    details: mybatis-plus
+    link: mybatis-plus
 ---
 
