@@ -4,13 +4,13 @@ layout: home
 
 hero:
   name: "hhhhhtao"
-  text: "个人文档"
-  tagline: Hello JuanJuan
+  text: ""
+  tagline: Hello
   image:
     alt: hhhhhtao个人文档
   actions:
     - theme: brand
-      text: START
+      text: 开始
       link: /guide
 
 features:
