@@ -135,7 +135,7 @@ git remote rm origin
 git remote add origin <URL>
 
 // 把当前分支与远程分支关联
-git push -u origin <我的分支名> git
+git push -u origin <我的分支名>
 ```
 
 ## 版本回滚
