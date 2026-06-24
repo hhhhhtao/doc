@@ -16,7 +16,11 @@ export default defineConfig({
         text: '目录',
         items: [
           { text: '指南', link: '/guide' },
-          { text: 'git', link: '/git' }
+          { text: 'git', link: '/git' },
+          { text: 'spring-boot', link: '/spring-boot' },
+          { text: 'mybatis-plus', link: '/mybatis-plus' },
+          { text: 'nginx', link: '/nginx' },
+          { text: 'linux-ubuntu', link: '/linux-ubuntu' }
         ]
       }
     ],

@@ -5,29 +5,39 @@ layout: home
 hero:
   name: "hhhhhtao"
   text: ""
-  tagline: Hello
+  tagline: 
   image:
     alt: hhhhhtao个人文档
   actions:
     - theme: brand
-      text: 开始
+      text: Start
       link: /guide
 
 features:
   - icon: 
       src: logos/git-scm-icon.svg
     title: Git
-    details: git使用手册
-    link: git/
+    details:
+    link: git
   - icon: 
       src: logos/spring-logo.png
     title: Spring Boot
-    details: spring-boot个人使用习惯
-    link: spring-boot/
+    details: 
+    link: spring-boot
   - icon: 
       src: logos/mybatis-plus-logo.png
     title: MyBatis-Plus
-    details: mybatis-plus
+    details: 
     link: mybatis-plus
+  - icon:
+      src: logos/nginx_logo.svg
+    title: Nginx
+    details: 
+    link: nginx
+  - icon:
+      src: logos/ubuntu-logo.png
+    title: Ubuntu
+    details: 
+    link: linux-ubuntu
 ---
 

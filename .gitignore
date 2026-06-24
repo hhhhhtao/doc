@@ -3,4 +3,4 @@ node_modules
 
 # vitepress
 .vitepress/cache/
-.vitepress/dist
+.vitepress/dist/
