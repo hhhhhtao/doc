@@ -20,7 +20,11 @@ export default defineConfig({
           { text: 'spring-boot', link: '/spring-boot' },
           { text: 'mybatis-plus', link: '/mybatis-plus' },
           { text: 'nginx', link: '/nginx' },
-          { text: 'linux-ubuntu', link: '/linux-ubuntu' }
+          { text: 'ubuntu', link: '/linux-ubuntu' },
+          { text: 'redis', link: '/redis' },
+          { text: 'spring', link: '/spring' },
+          { text: 'mysql', link: '/mysql' },
+          { text: 'java-开发笔记', link: '/java-develop-notes' },
         ]
       }
     ],

@@ -39,5 +39,25 @@ features:
     title: Ubuntu
     details: 
     link: linux-ubuntu
+  - icon: 
+      src: logos/redis-logo.svg
+    title: Redis
+    details: 
+    link: redis
+  - icon:
+      src: logos/spring-logo.png
+    title: Spring
+    details: 
+    link: spring
+  - icon:
+      src: logos/logo-mysql.png
+    title: Mysql
+    details:
+    link: mysql
+  - icon:
+      src: logos/java-logo.png
+    title: Java-开发笔记
+    details:
+    link: java-develop-notes
 ---
 
